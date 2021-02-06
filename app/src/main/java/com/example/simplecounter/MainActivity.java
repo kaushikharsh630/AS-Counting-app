@@ -14,10 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 
-    public void submitOrder(View view){
-        int number_of_orders = 7;
-        display(number_of_orders);
-    }
      int quantity=0;
     public void increment(View view){
         //int quantity=0;
