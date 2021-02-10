@@ -14,7 +14,7 @@ protected void onCreate(Bundle savedInstanceState) {
         setContentView(R.layout.activity_main);
         }
 
-        int quantity=990;
+        int quantity=0;
 public void increment(View view){
         //int quantity=0;
         quantity++;
